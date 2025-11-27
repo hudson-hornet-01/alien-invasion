@@ -83,5 +83,8 @@ It reflects my hands-on practice in game development using Pygame.
 ✅ High score persistence
 ✅ Game loop and event handling
 
+👤 Author
+Vaibhav Kumar
+
 
 ⭐ If you like this project, don’t forget to star the repo!
